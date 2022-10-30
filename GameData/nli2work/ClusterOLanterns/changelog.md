@@ -7,7 +7,7 @@
 | forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/210339-*/) |
 | github     | (https://github.com/zer0Kerbal/ClusterOLanterns)                  |
 | curseforge | (https://www.curseforge.com/kerbal/ksp-mods/ClusterOLanterns)     |
-| spacedock  | (https://spacedock.info/mod/3141)                                 |
+| spacedock  | (https://spacedock.info/mod/SD-ID)                                |
 | ckan       | ClusterOLanterns                                                  |
 
 ## Version 0.1.0.0-release `<Archival>`

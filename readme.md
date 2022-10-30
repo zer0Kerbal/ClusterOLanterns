@@ -13,13 +13,13 @@ updated: 04 Oct 2022 -->
 
 # Cluster O'Lanterns (COL)
 
-A kitbash of Porkjet's Jack O Lantern and BahamutoD's Cluster Bomb to multiply your enjoyment x42.
+A kitbash of Porkjet's [Jack O'Lantern][JACK] and BahamutoD's [BDArmory][bda] Cluster Bomb to multiply your enjoyment x42.
 
 
 
 ## By [`zer0Kerbal`][zer0Kerbal], originally by [`nli2work`][nli2work]
 
-adopted with *express* permission and brought to you by *KerbSimpleCo*
+adopted and brought to you by *KerbSimpleCo*
 
 <img src="https://raw.githubusercontent.com/zer0Kerbal/ClusterOLanterns/master/img/HeroLogo_1920x1920.png" alt="ClusterOLanterns Hero" width="50%" height="50%">
 
@@ -36,7 +36,7 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 
 ### YouTube video by [`Keyojimbo`](https://www.youtube.com/user/nli2work)
 
-[![Ride of the Jack O Lanterns](https://img.youtube.com/vi/6VWRLUnyNl4/0.jpg)](https://www.youtube.com/watch?v=6VWRLUnyNl4)
+[![Ride of the Jack O'Lanterns](https://img.youtube.com/vi/6VWRLUnyNl4/0.jpg)](https://www.youtube.com/watch?v=6VWRLUnyNl4)
 
 ### Help Wanted
 
@@ -70,8 +70,9 @@ or [![CKAN][ckan:img]][ckan:url]
 ### Dependencies
 
 * [Kerbal Space Program][KSP:url] [![Kerbal Space Program][KSP:shd]][KSP:url] [^2]
-* [Jack-O'Lantern (JACK)][JACK]
-* [BDArmory][bda]
+* [Jack-O'Lantern (JACK)][JACK] (so the Cluster O'Lanterns look good)
+* [BDArmory][bda] (so things go boom)
+* [NohArk's Pick'n'Pull (PNP)][PNP] (Agency)
 
 ### Suggests
 
@@ -80,7 +81,7 @@ or [![CKAN][ckan:img]][ckan:url]
 * [Eterno-Rest 2000 (REST)][REST]
 * [Hallowe'en (HLWN)][HLWN]
 
-### Addons that compliment [Cluster O'Lanters][COL]
+#### Addons that compliment [Cluster O'Lanterns][MOD:Forum]
 
 * [KaboOom! (BOOM)][BOOM] *another way to not go to space today*
 * [Radial Omni Seperator (ROS)][ROS]
@@ -191,11 +192,13 @@ How to support this and other great mods by [`zer0Kerbal`][zer0Kerbal]
 [KSP:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/ClusterOLanterns/master/json/ksp.json&logo=data:image/webp;base64,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 "Kerbal Space Program"
 
 <!-- links to add-ons/mods -->
+[BOOM]: https://forum.kerbalspaceprogram.com/index.php?/topic/192938-*/ "KaboOom! (BOOM)"
 [GPO]: https://forum.kerbalspaceprogram.com/index.php?/topic/207732-*/ "GPO SpeedPump (GPO)"
-[HLWN]: https://forum.kerbalspaceprogram.com/index.php?/topic/205185-*/ "Hallowe'en"
-[JACK]: https://forum.kerbalspaceprogram.com/index.php?/topic/189466-*/ "Jack-O'Lantern"
-[REST]: https://forum.kerbalspaceprogram.com/index.php?/topic/209894-*/ "Eterno-Rest 2000"
+[HLWN]: https://forum.kerbalspaceprogram.com/index.php?/topic/205185-*/ "Hallowe'en (HLWN)"
+[JACK]: https://forum.kerbalspaceprogram.com/index.php?/topic/189466-*/ "Jack-O'Lantern (JACK)"
+[REST]: https://forum.kerbalspaceprogram.com/index.php?/topic/209894-*/ "Eterno-Rest 2000 (REST)"
 [ODFC]: https://forum.kerbalspaceprogram.com/index.php?/topic/187625-*/ "On Demand Fuel Cells (ODFC)"
+[PNP]: https://forum.kerbalspaceprogram.com/index.php?/topic/209965-*/ "NohArk's Pick'n'Pull (PNP)"
 [ROS]: https://forum.kerbalspaceprogram.com/index.php?/topic/209926-*/ "Radial Omni Seperator (ROS)"
 
 [bda]: https://forum.kerbalspaceprogram.com/index.php?/topic/178156-*/ "BDArmory"
