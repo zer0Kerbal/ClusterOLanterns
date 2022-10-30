@@ -19,19 +19,11 @@ updated: 01 Oct 2022 -->
 
 ## Parts Catalog
 
-This add-on adds nine (9) resource parts
+This add-on adds one (1) cluster munition
 
----
+* Cluster O'Lantern
 
-* Mallet *(Only with Kerbal Inventory System installed)*
-* SurveyStake
-
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/ClusterOLanterns/master/GameData/ClusterOLanterns/Parts/%40thumbs/ElMallet_icon.png" alt="Mallet" width="25%" height="25%" /> <img src="https://raw.githubusercontent.com/zer0Kerbal/ClusterOLanterns/master/GameData/ClusterOLanterns/Parts/%40thumbs/ELSurveyStake_icon.png" alt="SurveyStake" width="25%" height="25%" />
-
-* MicroPad
-* OrbitalDock
-
----
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/JackOLantern/master/docs/%40thumbs/JackOLantern1_icon.png" alt="Jack O'Lanter (JACK) - medium model" width="37.5%" height="25%" />
 
 [top](#parts-catalog)
 
