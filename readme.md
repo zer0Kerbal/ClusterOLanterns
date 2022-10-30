@@ -13,13 +13,13 @@ updated: 04 Oct 2022 -->
 
 # Cluster O'Lanterns (COL)
 
-A kitbash of Porkjet's Jack O'Lantern and BahamutoD's Cluster Bomb to multiply your enjoyment x42.
+A kitbash of Porkjet's [Jack O'Lantern][JACK] and BahamutoD's [BDArmory][bda] Cluster Bomb to multiply your enjoyment x42.
 
 
 
 ## By [`zer0Kerbal`][zer0Kerbal], originally by [`nli2work`][nli2work]
 
-adopted with *express* permission and brought to you by *KerbSimpleCo*
+adopted and brought to you by *KerbSimpleCo*
 
 <img src="https://raw.githubusercontent.com/zer0Kerbal/ClusterOLanterns/master/img/HeroLogo_1920x1920.png" alt="ClusterOLanterns Hero" width="50%" height="50%">
 
