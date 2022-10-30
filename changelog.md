@@ -10,7 +10,7 @@
 | spacedock  | (https://spacedock.info/mod/3141)                                 |
 | ckan       | ClusterOLanterns                                                  |
 
-## Version 0.1.0.0-release `<Archival>`
+## Version 0.9.99.0-adoption `<Flight of the Jacklyrie>`
 
 * Released
   * on: 29 October 2022
@@ -19,30 +19,38 @@
 
 ### Adoption by zer0Kerbal
 
-  * closes #32 - Create Agency
-  * closes #31 - Part Tags
+### Summary 0.9.99.0
+
+* modernization
+* lots of small fixes and linting
+* initial localization
+* New Cover Logo
 
 ### Localization 0.9.99.0
 
-  * closes #30 - Part Localization
-  * closes #13 - English <en-us.cfg>
-  * closes #12 - Localization - Master
-  * closes #8 - Create Localization directory and contents
+* closes #10 - Create `ClusterOLanterns.cfg>
+* closes #12 - Localization - Master
+* closes #13 - English <en-us.cfg>
+* closes #30 - Part Localization
+* closes #31 - Part Tags
+* closes #8 - Create Localization directory and contents
 
 ### Update 0.9.99.0
 
-  * closes #11 - Update License
+* Update license
+  * to: CC BY-SA 4.0
+  * from: CC BY-NC-SA 4.0
+* closes #11 - Update License
 
 ### Parts 0.9.99.0
 
-  * closes #9 - Part Asset Updates
-  * closes #10 - Create `ClusterOLanterns.cfg>
+* move assets to Assets/
+* closes #9 - Part Asset Updates
 
 ### Documentation 0.9.99.0
 
-  * closes #7 - Archival Releases
-  * closes #6 - Create HeroLogo.png
-  * closes #5 - Create GitHub Pages
+* closes #6 - Create HeroLogo.png
+* closes #5 - Create GitHub Pages
 
 ### Status 0.9.99.0
 
@@ -51,6 +59,8 @@
   * closes #2 - 0.9.99.0 Create Legal Mumbo Jumbo
   * closes #3 - 0.9.99.0 Create Documentation
   * closes #4 - 0.9.99.0 Create Social Media Presence
+  * closes #7 - Archival Releases
+  * closes #32 - Create Agency
 
 ---
 
