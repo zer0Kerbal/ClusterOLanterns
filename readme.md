@@ -13,7 +13,7 @@ updated: 04 Oct 2022 -->
 
 # Cluster O'Lanterns (COL)
 
-A kitbash of Porkjet's Jack O Lantern and BahamutoD's Cluster Bomb to multiply your enjoyment x42.
+A kitbash of Porkjet's Jack O'Lantern and BahamutoD's Cluster Bomb to multiply your enjoyment x42.
 
 
 
@@ -36,7 +36,7 @@ adopted with *express* permission and brought to you by *KerbSimpleCo*
 
 ### YouTube video by [`Keyojimbo`](https://www.youtube.com/user/nli2work)
 
-[![Ride of the Jack O Lanterns](https://img.youtube.com/vi/6VWRLUnyNl4/0.jpg)](https://www.youtube.com/watch?v=6VWRLUnyNl4)
+[![Ride of the Jack O'Lanterns](https://img.youtube.com/vi/6VWRLUnyNl4/0.jpg)](https://www.youtube.com/watch?v=6VWRLUnyNl4)
 
 ### Help Wanted
 
@@ -70,8 +70,9 @@ or [![CKAN][ckan:img]][ckan:url]
 ### Dependencies
 
 * [Kerbal Space Program][KSP:url] [![Kerbal Space Program][KSP:shd]][KSP:url] [^2]
-* [Jack-O'Lantern (JACK)][JACK]
-* [BDArmory][bda]
+* [Jack-O'Lantern (JACK)][JACK] (so the Cluster O'Lanterns look good)
+* [BDArmory][bda] (so things go boom)
+* [NohArk's Pick'n'Pull (PNP)][PNP] (Agency)
 
 ### Suggests
 
@@ -80,7 +81,7 @@ or [![CKAN][ckan:img]][ckan:url]
 * [Eterno-Rest 2000 (REST)][REST]
 * [Hallowe'en (HLWN)][HLWN]
 
-### Addons that compliment [Cluster O'Lanters][COL]
+#### Addons that compliment [Cluster O'Lanterns][MOD:Forum]
 
 * [KaboOom! (BOOM)][BOOM] *another way to not go to space today*
 * [Radial Omni Seperator (ROS)][ROS]
