@@ -10,7 +10,7 @@
 | spacedock  | (https://spacedock.info/mod/SD-ID)                                |
 | ckan       | ClusterOLanterns                                                  |
 
-## Version 0.1.0.0-release `<Archival>'
+## Version 0.1.0.0-release `<Archival>`
 
 * Released
   * on: 29 October 2014
