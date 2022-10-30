@@ -23,7 +23,7 @@ This add-on adds one (1) cluster munition
 
 * Cluster O'Lantern
 
-  <img src="https://raw.githubusercontent.com/zer0Kerbal/JackOLantern/master/docs/%40thumbs/JackOLantern1_icon.png" alt="Jack O'Lanter (JACK) - medium model" width="37.5%" height="25%" />
+  <img src="https://raw.githubusercontent.com/zer0Kerbal/ClusterOLanterns/master/docs/%40thumbs/col-clusterJOL_icon.png" alt="Cluster O'Lantern (COL) - medium model" width="37.5%" height="25%" />
 
 [top](#parts-catalog)
 
