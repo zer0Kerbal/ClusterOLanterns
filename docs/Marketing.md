@@ -2,7 +2,6 @@
 permalink: /Marketing.html
 title: Marketing Images
 description: camera goes *click-click*
-# layout: bare
 tags: marketing,pr,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 
@@ -23,10 +22,10 @@ based upon work by LisiasT -->
 ## Marketing Slicks
 
 * Table of Contents
-  * [Flight of the Jackkryie](#flight-of-the-jackkryie)
-### Flight of the Jackkryie
+  * [Flight of the Jackryie](#flight-of-the-jackryie)
+### Flight of the Jackryie
 
-<img src="https://github.com/zer0Kerbal/ClusterOLanters/blob/master/img/Hero-01.jpg?raw=true" alt="Cluster O'Lanters" width="100%" height="100%">
+<img src="https://github.com/zer0Kerbal/ClusterOLanterns/blob/master/img/HERO-01.jpg?raw=true" alt="Cluster O'Lanterns" width="100%" height="100%">
 
 [top](#cluster-olanterns-col)
 
