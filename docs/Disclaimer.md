@@ -2,7 +2,6 @@
 permalink: /Disclaimer.html
 title: Disclaimer
 description: the flat-pack Kiea instructions, written in Kerbalese, unusally present
-# layout: bare
 tags: disclaimer,questions,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 
