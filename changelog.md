@@ -30,7 +30,7 @@
 
 * closes #10 - Create `ClusterOLanterns.cfg>
 * closes #12 - Localization - Master
-* closes #13 - English <en-us.cfg>
+* updates #13 - English <en-us.cfg>
 * closes #30 - Part Localization
 * closes #31 - Part Tags
 * closes #8 - Create Localization directory and contents
