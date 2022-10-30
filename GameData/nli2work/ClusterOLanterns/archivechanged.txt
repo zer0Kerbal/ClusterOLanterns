@@ -1,4 +1,4 @@
-# Cluster O'Lanters (COL)   
+# Cluster O'Lanterns (COL)   
 
 ## nli2work
 
@@ -15,6 +15,6 @@ this archive has been modified with any or all of the following:
   * changelog.md
   * CC-BY-NC-SA-4.0.txt
   * ManualInstallation.htm
-  * ClusterOLanters.version
+  * ClusterOLanterns.version
   * this readme.txt
 * by zer0Kerbal
