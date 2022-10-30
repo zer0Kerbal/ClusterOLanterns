@@ -15,6 +15,15 @@
 * Released
   * on: 29 October 2014
   * for: Kerbal Space Program v0.90.0
-  * by: nli2work
+  * by [nli2work](https://forum.kerbalspaceprogram.com/index.php?/profile/106805-nli2work/)
+
+### Updates by zer0Kerbal
+
+* change part name from [clusterJOL] --> [col-clusterJOL]
+* moved part and assets into Parts/
+* no longer have to drop files into JackOLantern
+  * created 1x1.png texture placeholders
+  * added code to [MODEL] to point to texture locations in JackOLanterns
+* quick linting
 
 ---
