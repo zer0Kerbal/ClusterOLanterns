@@ -1,0 +1,36 @@
+{
+	"NAME"			 : "Cluster O'Lanterns (COL)",
+	"URL"			 : "https://raw.githubusercontent.com/zer0Kerbal/ClusterOLanterns/master/ClusterOLanterns.version",
+	"DOWNLOAD"		 : "https://github.com/zer0Kerbal/ClusterOLanterns/releases/latest",
+	"CHANGE_LOG_URL" : "https://raw.githubusercontent.com/zer0Kerbal/ClusterOLanterns/master/changelog.md",
+	"GITHUB" :
+	{
+		"USERNAME"	        : "zer0Kerbal",
+		"REPOSITORY"		: "ClusterOLanterns",
+		"ALLOW_PRE_RELEASE" : false
+	},
+	"VERSION" :
+	{
+		"MAJOR" : 0,
+		"MINOR" : 9,
+		"PATCH" : 99,
+		"BUILD" : 0
+	},
+	"KSP_VERSION" :
+	{
+		"MAJOR" : 1,
+		"MINOR" : 12,
+		"PATCH" : 3
+	},
+	"KSP_VERSION_MIN" :
+	{
+		"MAJOR" : 1,
+		"MINOR" : 3,
+		"PATCH" : 1
+	},
+	"INSTALL_LOC" :
+	{
+		"NAME" :	  "ClusterOLanterns",
+		"DIRECTORY" : "nli2work/ClusterOLanterns"
+	}
+}
