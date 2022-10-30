@@ -19,7 +19,7 @@ updated: 01 Oct 2022 -->
 
 ## Parts Catalog
 
-This add-on adds one (1) cluster munition
+This parts add-on adds one (1) cluster munition
 
 * Cluster O'Lantern
 
