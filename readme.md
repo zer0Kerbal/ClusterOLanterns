@@ -81,7 +81,7 @@ or [![CKAN][ckan:img]][ckan:url]
 * [Eterno-Rest 2000 (REST)][REST]
 * [Hallowe'en (HLWN)][HLWN]
 
-### Addons that compliment [Cluster O'Lanterns][MOD:Forum]
+#### Addons that compliment [Cluster O'Lanterns][MOD:Forum]
 
 * [KaboOom! (BOOM)][BOOM] *another way to not go to space today*
 * [Radial Omni Seperator (ROS)][ROS]
