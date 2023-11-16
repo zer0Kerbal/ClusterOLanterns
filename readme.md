@@ -12,15 +12,13 @@ THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
 
 <small><i> — post will self update; latest readme always on GitHub. most images are links —</i></small>
 
-[![Cluster O'Lanterns (COL)][SHD:mod]][MOD:forum]  
+[![Cluster O'Lanterns (COL)][SHD:mod]][forum]  
 [![KSP version][K:shd]][K:url] [![License][LIC:shd]][LIC:url]  
-[![Curseforge][C:shd]][C:url] [![GitHub][G:shd]][G:url] [![Pages][SHD:pgs]][MOD:pages]  
+[![Curseforge][C:shd]][C:url] [![GitHub][G:shd]][G:url] [![Pages][SHD:pgs]][pages]  
 
 [![SpaceDock][SPCDCK:shd]][SPCDCK:url] [![CKAN][ckan:shd]][ckan:url]   
 
 A kitbash of Porkjet's [Jack O'Lantern][JACK] and BahamutoD's [BDArmory][bda] Cluster Bomb to multiply your enjoyment x42.
-
-
 
 ## By [`zer0Kerbal`][zer0Kerbal], originally by [`nli2work`][nli2work]
 
@@ -30,12 +28,12 @@ adopted and brought to you by *KerbSimpleCo*
 
 ### See more
 
->* [GitHub Pages][MOD:pages]
->* [Marketing Slicks][MOD:markt]
->* [Parts Catalog][MOD:parts] for part pictures
->* [Discussions][MOD:discu] or [KSP Forums][MOD:forum] for discussions and news
->* [ChangeLog][MOD:chlog] for more details of changes
->* [Known Issues][MOD:issue] for more details of feature requests and known issues
+>* [GitHub Pages][pages]
+>* [Marketing Slicks][markt]
+>* [Parts Catalog][parts] for part pictures
+>* [Discussions][discu] or [KSP Forums][forum] for discussions and news
+>* [ChangeLog][chlog] for more details of changes
+>* [Known Issues][issue] for more details of feature requests and known issues
 
 ---
 
@@ -48,7 +46,7 @@ adopted and brought to you by *KerbSimpleCo*
 > * Compatibility patches
 > * Contracts for these glorious parts
 > * Marketing Images and Videos such as hero shots, animated gifs, short highlights
-> * Have a request? Glad to have them, kindly submit through [GitHub][MOD:issue].
+> * Have a request? Glad to have them, kindly submit through [GitHub][issue].
 
 ---
 
@@ -86,7 +84,7 @@ or [![CKAN][ckan:img]][ckan:url]
 * [Eterno-Rest 2000 (REST)][REST]
 * [Hallowe'en (HLWN)][HLWN]
 
-#### Addons that compliment [Cluster O'Lanterns][MOD:Forum]
+#### Addons that compliment [Cluster O'Lanterns][Forum]
 
 * [KaboOom! (BOOM)][BOOM] *another way to not go to space today*
 * [Radial Omni Seperator (ROS)][ROS]
@@ -114,13 +112,13 @@ parts, combat
 ### Credits and Special Thanks
 
 * [nli2work][nli2work] for creating this glorious parts addon!
-* see [Attribution.md][MOD:attr] for more comprehensive list
+* see [Attribution.md][attr] for more comprehensive list
 
 ### Legal Mumbo Jumbo (License *provenance*)
 
 #### Current (1) - [`zer0Kerbal`][zer0Kerbal]
 
-> Forum: [Thread][MOD:forum] - Source: [GitHub][G:url]  
+> Forum: [Thread][forum] - Source: [GitHub][G:url]  
 > License: [![License][LIC:shd]][LIC:url] ![License][LIC:log]
 >
 > ##### Disclaimer(s)
@@ -128,11 +126,11 @@ parts, combat
 > ***All bundled mods are distributed under their own licenses***  
 > ***All assets, including but not limited to: animations, models, sounds and textures are distributed under their own licenses***
 
-##### see [Notices.md][MOD:notic] for more *legal Mumbo Jumbo*
+##### see [Notices.md][notic] for more *legal Mumbo Jumbo*
 
 #### Original (0) - Author: [`nli2work`][nli2work]
 
-> Forum: [Thread][MOD:0:thread] - Download: [Dropbox][MOD:0:dnload] - Source: [Dropbox][MOD:0:source]  
+> Forum: [Thread][0:thread] - Download: [Dropbox][0:dnload] - Source: [Dropbox][0:source]  
 > License: [![License][LIC:0:shd]][LIC:0:url] ![License][LIC:0:log]
 
 ---
@@ -148,15 +146,15 @@ How to support this and other great mods by [`zer0Kerbal`][zer0Kerbal]
 
 *and it is true.*
 <!-- mod links -->
-[MOD:attr]: https://zer0kerbal.github.io/ClusterOLanterns/Attributions "Attribution"
-[MOD:chlog]: https://raw.githubusercontent.com/zer0Kerbal/ClusterOLanterns/master/changelog.md  "Changelog"
-[MOD:discu]: https://github.com/zer0Kerbal/ClusterOLanterns/discussions "Discussions"
-[MOD:forum]: https://forum.kerbalspaceprogram.com/index.php?/topic/210339-*/ "Cluster O'Lanterns"
-[MOD:issue]: https://github.com/zer0Kerbal/ClusterOLanterns/issues "Issues"
-[MOD:markt]: https://zer0kerbal.github.io/ClusterOLanterns/Marketing "Marketing Slicks"
-[MOD:notic]: https://zer0kerbal.github.io/ClusterOLanterns/Notices "Notices"
-[MOD:parts]: https://zer0kerbal.github.io/ClusterOLanterns/PartsCatalog "Parts Catalog"
-[MOD:pages]: https://zer0kerbal.github.io/ClusterOLanterns "GitHub Pages"
+[attr]: https://zer0kerbal.github.io/ClusterOLanterns/Attributions "Attribution"
+[chlog]: https://raw.githubusercontent.com/zer0Kerbal/ClusterOLanterns/master/changelog.md  "Changelog"
+[discu]: https://github.com/zer0Kerbal/ClusterOLanterns/discussions "Discussions"
+[forum]: https://forum.kerbalspaceprogram.com/index.php?/topic/210339-*/ "Cluster O'Lanterns"
+[issue]: https://github.com/zer0Kerbal/ClusterOLanterns/issues "Issues"
+[markt]: https://zer0kerbal.github.io/ClusterOLanterns/Marketing "Marketing Slicks"
+[notic]: https://zer0kerbal.github.io/ClusterOLanterns/Notices "Notices"
+[parts]: https://zer0kerbal.github.io/ClusterOLanterns/PartsCatalog "Parts Catalog"
+[pages]: https://zer0kerbal.github.io/ClusterOLanterns "GitHub Pages"
 
 <!--- mod -->
 [SHD:mod]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/ClusterOLanterns/master/json/mod.json
@@ -164,9 +162,9 @@ How to support this and other great mods by [`zer0Kerbal`][zer0Kerbal]
 [SHD:pgs]: https://img.shields.io/badge/GitHub-Pages-white?style=plastic&labelColor=9cf&logoColor=181717&logo=github "GitHub IO"
 
 <!--- mod provenance -->
-[MOD:0:dnload]: https://kerbalstuff.com/mod/305/Cluster%20O%20Lantern "KerbalStuff"
-[MOD:0:source]: https://kerbalstuff.com/mod/305/Cluster%20O%20Lantern "KerbalStuff"
-[MOD:0:thread]: https://forum.kerbalspaceprogram.com/index.php?/topic/88880-*/ "KSP Forum"
+[0:dnload]: https://kerbalstuff.com/mod/305/Cluster%20O%20Lantern "KerbalStuff"
+[0:source]: https://kerbalstuff.com/mod/305/Cluster%20O%20Lantern "KerbalStuff"
+[0:thread]: https://forum.kerbalspaceprogram.com/index.php?/topic/88880-*/ "KSP Forum"
 
 <!--- license provenance -->
 [LIC:0:url]: https://creativecommons.org/licenses/by-nc-sa/4.0/ "CC BY-NC-SA 4.0"
@@ -255,7 +253,7 @@ How to support this and other great mods by [`zer0Kerbal`][zer0Kerbal]
 
 #### Connect with me
 
-Track progress: issues [here][MOD:issue] and projects [here](https://github.com/zer0Kerbal/ClusterOLanterns/projects/) along with **[The Short List](https://github.com/users/zer0Kerbal/projects/27)**
+Track progress: issues [here][issue] and projects [here](https://github.com/zer0Kerbal/ClusterOLanterns/projects/) along with **[The Short List](https://github.com/users/zer0Kerbal/projects/27)**
 
 [<img align="left" alt="zer0Kerbal | kerbalspaceprogram.com" width="32px" src="https://cdn.icon-icons.com/icons2/1381/PNG/32/kerbalspaceprogram_93898.png" />][zer0Kerbal] [<img align="left" alt="zer0Kerbal | CurseForge" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/curseforge.svg" />][curseforge] [<img align="left" alt="zer0Kerbal | reddit" width="32px" src="https://cdn.icon-icons.com/icons2/1945/PNG/512/iconfinder-reddit-4661631_122483.png" />][reddit] [<img align="left" alt="zer0Kerbal | Patreon" width="32px" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/patreon_logo_icon_147253.png" />][PATREON:url] [<img align="left" alt="zer0Kerbal | YouTube" width="32px" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Youtube_icon-icons.com_66802.png" />][youtube] [<img align="left" alt="zer0Kerbal | Twitch" width="32px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/twitch_logo_icon_170383.png" />][twitch] [<img align="left" alt="zer0Kerbal | PayPal" width="32px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/paypal_logo_icon_168055.png" />][PAYPAL:url] [<img align="left" alt="zer0Kerbal | Buy Me a Coffee" width="32px" src="https://www.buymeacoffee.com/assets/img/bmc-meta-new/new/favicon.ico" />][BMCC:url] [<img align="left" alt="zer0Kerbal | Twitter" width="32px" src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/twitter-32.ico" />][twitter]</br>
 
