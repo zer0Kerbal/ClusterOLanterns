@@ -18,11 +18,11 @@ THIS FILE: CC BY-ND 4.0 by zer0Kerbal -->
 
 [![SpaceDock][SPCDCK:shd]][SPCDCK:url] [![CKAN][ckan:shd]][ckan:url]   
 
-A kitbash of Porkjet's [Jack O'Lantern][JACK] and BahamutoD's [BDArmory][bda] Cluster Bomb to multiply your enjoyment x42.
+A kitbash of Porkjet's [Jack O'Lantern][JACK] and [BahamutoD's][bahamutod] [BDArmory][bda] Cluster Bomb to multiply your enjoyment x42.
 
-## By [`zer0Kerbal`][zer0Kerbal], originally by [`nli2work`][nli2work]
+## By [`zer0Kerbal`][zer0Kerbal], originally by [`nli2work`][nli2work] and [BahamutoD][bahamutod]
 
-adopted and brought to you by *KerbSimpleCo*
+adopted with *express* permission and brought to you by *KerbSimpleCo*
 
 <img src="https://raw.githubusercontent.com/zer0Kerbal/ClusterOLanterns/master/img/HeroLogo_1920x1920.png" alt="ClusterOLanterns Hero" width="50%" height="50%">
 
@@ -246,24 +246,12 @@ How to support this and other great mods by [`zer0Kerbal`][zer0Kerbal]
 [twitter]: https://twitter.com/zer0Kerbal
 [youtube]: https://www.youtube.com/@zer0Kerbal
 
+[bahamutod]: https://forum.kerbalspaceprogram.com/profile/72433-*/ "BahamutoD"
 [nli2work]: https://forum.kerbalspaceprogram.com/index.php?/profile/106805-*/ "nli2work"
 [zer0Kerbal]: https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/ "zer0Kerbal"
-
----
 
 #### Connect with me
 
 Track progress: issues [here][issue] and projects [here](https://github.com/zer0Kerbal/ClusterOLanterns/projects/) along with **[The Short List](https://github.com/users/zer0Kerbal/projects/27)**
 
 [<img align="left" alt="zer0Kerbal | kerbalspaceprogram.com" width="32px" src="https://cdn.icon-icons.com/icons2/1381/PNG/32/kerbalspaceprogram_93898.png" />][zer0Kerbal] [<img align="left" alt="zer0Kerbal | CurseForge" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/curseforge.svg" />][curseforge] [<img align="left" alt="zer0Kerbal | reddit" width="32px" src="https://cdn.icon-icons.com/icons2/1945/PNG/512/iconfinder-reddit-4661631_122483.png" />][reddit] [<img align="left" alt="zer0Kerbal | Patreon" width="32px" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/patreon_logo_icon_147253.png" />][PATREON:url] [<img align="left" alt="zer0Kerbal | YouTube" width="32px" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Youtube_icon-icons.com_66802.png" />][youtube] [<img align="left" alt="zer0Kerbal | Twitch" width="32px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/twitch_logo_icon_170383.png" />][twitch] [<img align="left" alt="zer0Kerbal | PayPal" width="32px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/paypal_logo_icon_168055.png" />][PAYPAL:url] [<img align="left" alt="zer0Kerbal | Buy Me a Coffee" width="32px" src="https://www.buymeacoffee.com/assets/img/bmc-meta-new/new/favicon.ico" />][BMCC:url] [<img align="left" alt="zer0Kerbal | Twitter" width="32px" src="https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/master/img/twitter-32.ico" />][twitter]</br>
-
-##### Release Schedule
-
-1. GitHub, reaching first manual installers and users of KSP-AVC. Right now.
-2. CurseForge. Right now.
-3. SpaceDock (and CKAN users). Soon™
-
-<!-- footnotes -->
-[^1]: this isn't a mod. ;P  
-[^2]: ***may*** work on other versions (YMMV)  
-[^3]: *Be Kind: Lithobrake, not jakebrake! Keep your Module Manager up to date!*  
